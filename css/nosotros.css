@@ -1,0 +1,19 @@
+body{
+    background-color: beige;
+}
+.TituloN{
+    font-family: "Oswald", sans-serif; 
+    color: palevioletred;
+}
+.text{
+    color: black;
+}
+.ubi{
+    font-family: "Oswald", sans-serif;
+    font-style: oblique;
+    color: palevioletred;
+}
+.direcc{
+    color: black;
+}
+
